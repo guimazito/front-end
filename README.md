@@ -20,13 +20,11 @@
 ![print8](https://user-images.githubusercontent.com/83731012/124687621-41ce3280-dea3-11eb-9e3e-bcdd4e599675.PNG)
 
 <br/><a href="https://github.com/guimazito/front-end/tree/main/project_03">https://github.com/guimazito/front-end/tree/main/project_03</a><br/>
-
 ![cena1](https://user-images.githubusercontent.com/83731012/127927213-fd57364c-d23c-41e4-8fc4-2d401403bc6c.PNG)
 ![cena2](https://user-images.githubusercontent.com/83731012/127927274-6ebaa1fc-045f-4680-aa77-d0f12d8aef2f.PNG)
 ![cena3](https://user-images.githubusercontent.com/83731012/127927287-48ea490c-a076-4654-9b7c-24b5cbf2267b.PNG)
 
 <br/><a href="https://github.com/guimazito/front-end/tree/main/project_04">https://github.com/guimazito/front-end/tree/main/project_04</a><br/>
-
 ![danki1](https://user-images.githubusercontent.com/83731012/127927350-5f709ec5-86bd-45af-ab7f-2ba90f8e3821.PNG)
 ![danki2](https://user-images.githubusercontent.com/83731012/127927356-890a4463-dfe3-49c0-89d7-19c4eb03e19f.PNG)
 ![danki3](https://user-images.githubusercontent.com/83731012/127927369-685a8b98-b724-4d14-8e17-9a6fac652928.PNG)
